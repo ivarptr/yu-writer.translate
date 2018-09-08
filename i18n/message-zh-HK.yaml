@@ -3,78 +3,78 @@ menu:
     group-app: ${defaults.base.name}
     about.win32: 關於...
     about.darwin: 關於 ${defaults.base.name}
-    preferences.win32: 設置...
-    preferences.darwin: 偏好設置...
+    preferences.win32: 設定...
+    preferences.darwin: 偏好設定...
     services: 服務
     hide: 隱藏 ${defaults.base.name}
     hideothers: 隱藏其他
     unhide: 全部顯示
-    quit.win32: 關閉所有窗口
-    quit.darwin: 退出 ${defaults.base.name}
-    group-file: 文件
-    new-file: 新建文檔
-    new-file-from-clipboard: 從剪貼板新建文檔
-    new-folder: 新建文件夾
-    group-new-library: 新建庫
-    new-library: 文檔庫
-    new-library-from-external-folder.win32: 鏈接到外部文件夾 (比如 OneDrive, Dropbox, Git 等)...
-    new-library-from-external-folder.darwin: 鏈接到外部文件夾 (比如 iCloud, Dropbox, Git 等)...
-    new-library-from-external-folder.linux: 鏈接到外部文件夾 (比如 Dropbox, Git 等)...
-    new-library-from-blog: 鏈接到靜態博客項目文件夾 (比如 Jekyll, Hexo 等)...
-    new-library-from-book: 鏈接到電子書項目文件夾 (比如 GitBook)...
-    open-tab-in-new-window: 在新窗口中打開
-    take-snapshot: 保存快照
+    quit.win32: 關閉所有視窗
+    quit.darwin: 結束 ${defaults.base.name}
+    group-file: 檔案
+    new-file: 新增文件
+    new-file-from-clipboard: 從剪貼簿新增文件
+    new-folder: 新增資料夾
+    group-new-library: 新增文件庫
+    new-library: 文件庫
+    new-library-from-external-folder.win32: 連結到外部資料夾 (比如 OneDrive, Dropbox, Git 等)...
+    new-library-from-external-folder.darwin: 連結到外部資料夾 (比如 iCloud, Dropbox, Git 等)...
+    new-library-from-external-folder.linux: 連結到外部資料夾 (比如 Dropbox, Git 等)...
+    new-library-from-blog: 連結到靜態部落格專案資料夾 (比如 Jekyll, Hexo 等)...
+    new-library-from-book: 連結到電子書專案資料夾 (比如 GitBook)...
+    open-tab-in-new-window: 在新視窗中開啟
+    take-snapshot: 儲存快照
     restore: 恢復內容到初始狀態
-    statistics: 統計信息...
+    statistics: 統計資訊...
     close-current-tab: 關閉
-    new-window: 新建窗口
-    close: 關閉窗口
-    open-external-file: 打開外部文檔
-    new-external-file: 新建外部文檔
+    new-window: 新增視窗
+    close: 關閉視窗
+    open-external-file: 開啟外部文件
+    new-external-file: 新增外部文件
     clear-recent: 清除最近列表
-    import: 導入...
-    export: 導出...
+    import: 匯入...
+    export: 匯出...
     group-edit: 編輯
-    undo: 撤銷
+    undo: 還原
     redo: 重做
-    cut: 剪切
+    cut: 剪下
     copy.win32: 複製
-    copy.darwin: 拷貝
-    paste: 粘貼
-    paste-as-text: 粘貼為純文本
-    paste-from-wechat-subscription-post: 粘貼自微信訂閲號文章 (*)
+    copy.darwin: 複製
+    paste: 貼上
+    paste-as-text: 以純文字貼上
+    paste-from-wechat-subscription-post: 從微信訂閱號文章貼上 (*)
     copy-as-html.win32: 複製為 HTML
-    copy-as-html.darwin: 拷貝為 HTML
-    copy-as-plain-text.win32: 複製為純文本
-    copy-as-plain-text.darwin: 拷貝為純文本
-    copy-as-wechat-subscription-post.win32: 複製為微信訂閲號文章格式
-    copy-as-wechat-subscription-post.darwin: 拷貝為微信訂閲號文章格式
+    copy-as-html.darwin: 複製為 HTML
+    copy-as-plain-text.win32: 複製為純文字
+    copy-as-plain-text.darwin: 複製為純文字
+    copy-as-wechat-subscription-post.win32: 複製為微信訂閱號文章格式
+    copy-as-wechat-subscription-post.darwin: 複製為微信訂閱號文章格式
     select-all: 全選
-    find: 查找
-    find-files: 在文件中查找
-    find-next: 查找下一個
-    find-previous: 查找上一個
+    find: 尋找
+    find-files: 在檔案中尋找
+    find-next: 尋找下一個
+    find-previous: 尋找上一個
     go-line: 跳到行...
     go-previous-line: 返回上一行 (*)
     move-line-up: 向上移動一行
     move-line-down: 向下移動一行
-    new-line: 新行 (Ctrl+Enter)
-    cut-line: 剪切行
+    new-line: 新增行 (Ctrl+Enter)
+    cut-line: 剪下行
     copy-line: 複製行
     delete-line: 刪除行
-    toggle-bookmark: 添加/刪除書籤 (*)
+    toggle-bookmark: 新增/刪除書籤 (*)
     go-and-delete-previous-bookmark: 跳到並刪除最後一個書籤 (*)
     go-previous-bookmark: 跳到上一個書籤 (*)
     go-next-bookmark: 跳到下一個書籤 (*)
-    new-file-selected-text: 以選定的內容新建文檔 (*)
-    split-file-current-position: 在當前位置分割文檔 (*)
+    new-file-selected-text: 以選定的內容新增文件 (*)
+    split-file-current-position: 在當前位置分割文件 (*)
     group-format: 格式
     strong: 粗體
     emphasis: 斜體
     underline: 下劃線
     strikethrough: 刪除線
     mark: 加亮
-    code: 行內代碼
+    code: 行內程式碼
     heading1: 標題 1
     heading2: 標題 2
     heading3: 標題 3
@@ -83,108 +83,108 @@ menu:
     clear-heading: 清除標題
     indent: 提升標題級別 (Tab)
     reserve-indent: 降低標題級別 (Shift+Tab)
-    link: 鏈接
-    image: 圖像
-    list-item: 列表項目
-    ordered-list-item: 有序列表項目
-    task-item: 任務列表項目
+    link: 連結
+    image: 影像
+    list-item: 列表專案
+    ordered-list-item: 有序列表專案
+    task-item: 任務列表專案
     sort-list: 排序列表 (*)
     invert-list: 反轉列表次序 (*)
-    change-task-item-state: 改變任務列表項目的完成狀態
+    change-task-item-state: 改變任務列表專案的完成狀態
     sort-task-list-state: 排序任務列表的完成狀態 (*)
     clear-format: 清除格式
-    beautify: 美化文檔
+    beautify: 美化文件
     group-insert: 插入
-    insert-link: 鏈接
-    insert-media: 圖像
+    insert-link: 連結
+    insert-media: 影像
     insert-task-list: 任務列表
-    insert-footnote: 腳註
+    insert-footnote: 註腳
     toc: 目錄
     hr: 分隔線
     blockquote: 引言
     insert-table: 表格
     insert-chart: 圖表
-    insert-code: 代碼塊
+    insert-code: 程式碼塊
     insert-equation: LaTeX 數學公式
-    group-view.win32: 查看
+    group-view.win32: 檢視
     group-view.darwin: 顯示
-    toggle-library: 顯示/隱藏 文檔庫
-    toggle-document-list: 顯示/隱藏 文檔列表
+    toggle-library: 顯示/隱藏 文件庫
+    toggle-document-list: 顯示/隱藏 文件列表
     toggle-toolbar: 顯示/隱藏 工具欄
     toggle-outline: 顯示/隱藏 大綱
     toggle-instant-view: 顯示/隱藏 即時預覽
-    toggle-read-mode: 顯示/隱藏 閲讀模式 (*)
+    toggle-read-mode: 顯示/隱藏 閱讀模式 (*)
     toggle-preview: 顯示/隱藏 預覽
     toggle-slides: 顯示/隱藏 幻燈片瀏覽
     toggle-history: 顯示/隱藏 歷史記錄
     toggle-presentation: 播放幻燈片
     quick-open: 顯示快速打開面板
     command-palette: 顯示命令面板
-    increase-font-size: 放大字體
-    decrease-font-size: 縮小字體
-    reset-font-size: 實際字體大小
+    increase-font-size: 放大字型
+    decrease-font-size: 縮小字型
+    reset-font-size: 實際字型大小
     toggle-distraction-free-mode: 進入專心模式
-    toggle-fullscreen: 進入全屏幕
-    group-window: 窗口
-    previous-tab: 顯示上一個標籤頁
-    next-tab: 顯示下一個標籤頁
-    tab1: 顯示第 1 個標籤頁
-    tab2: 顯示第 2 個標籤頁
-    tab3: 顯示第 3 個標籤頁
-    tab4: 顯示第 4 個標籤頁
+    toggle-fullscreen: 進入全螢幕
+    group-window: 視窗
+    previous-tab: 顯示上一個分頁
+    next-tab: 顯示下一個分頁
+    tab1: 顯示第 1 個分頁
+    tab2: 顯示第 2 個分頁
+    tab3: 顯示第 3 個分頁
+    tab4: 顯示第 4 個分頁
     minimize: 最小化
     zoom: 縮放
-    front: 前置所有窗口
-    previous-window: 顯示上一個窗口 (*)
-    next-window: 顯示下一個窗口 (*)
+    front: 前置所有視窗
+    previous-window: 顯示上一個視窗 (*)
+    next-window: 顯示下一個視窗 (*)
     group-help: 幫助
     manual: 使用手冊
-    feedback: 意見反饋
+    feedback: 意見回饋
     website: 官方網站
     group-developer: 開發者
-    devel-reload: 重新加載
+    devel-reload: 重新載入
     devel-toggle-devtools: 顯示/隱藏 開發者工具
-    devel-open-library: 打開文檔庫目錄
-    devel-open-configuration: 打開配置文件目錄
-    devel-open-cache: 打開緩存目錄
+    devel-open-library: 開啟文件庫目錄
+    devel-open-configuration: 開啟配置檔案目錄
+    devel-open-cache: 開啟快取目錄
 context:
   layout:
-    toggle-library: 顯示/隱藏 文檔庫
-    toggle-document-list: 顯示/隱藏 文檔列表
-    toggle-fullscreen: 進入全屏幕
+    toggle-library: 顯示/隱藏 文件庫
+    toggle-document-list: 顯示/隱藏 文件列表
+    toggle-fullscreen: 進入全螢幕
   new-file:
-    new-file: 新建文檔
-    new-file-from-clipboard: 從剪貼板新建文檔
-    new-external-file: 新建外部文檔
+    new-file: 新增文件
+    new-file-from-clipboard: 從剪貼簿新增文件
+    new-external-file: 新增外部文件
   format:
     strong: 粗體
     emphasis: 斜體
     underline: 下劃線
     strikethrough: 刪除線
     mark: 加亮
-    code: 行內代碼
+    code: 行內程式碼
     heading1: 標題 1
     heading2: 標題 2
     heading3: 標題 3
     heading4: 標題 4
     auto-heading: 自動標題
     clear-heading: 清除標題
-    link: 鏈接
-    image: 圖像
-    list-item: 列表項目
-    ordered-list-item: 有序列表項目
-    task-item: 任務列表項目
-    change-task-item-state: 改變任務列表項目完成狀態
+    link: 連結
+    image: 影像
+    list-item: 列表專案
+    ordered-list-item: 有序列表專案
+    task-item: 任務列表專案
+    change-task-item-state: 改變任務列表專案完成狀態
     clear-format: 清除格式
-    beautify: 美化文檔
+    beautify: 美化文件
   insert:
     insert-task-list: 任務列表
-    insert-footnote: 腳註
+    insert-footnote: 註腳
     toc: 目錄
     hr: 分隔線
     blockquote: 引言
     insert-chart: 圖表
-    insert-code: 代碼塊
+    insert-code: 程式碼塊
     insert-equation: LaTeX 數學公式
   table:
     insert-table: 插入表格
@@ -198,182 +198,182 @@ context:
   view:
     toggle-preview: 顯示/隱藏 預覽
     toggle-slides: 顯示/隱藏 幻燈片瀏覽
-    toggle-read-mode: 顯示/隱藏 閲讀模式
+    toggle-read-mode: 顯示/隱藏 閱讀模式
     toggle-presentation: 播放幻燈片
     toggle-outline: 顯示/隱藏 大綱
     toggle-instant-view: 顯示/隱藏 即時預覽
   library:
-    new-folder: 新建文件夾
-    rename-file.win32: 重命名
+    new-folder: 新增資料夾
+    rename-file.win32: 重新命名
     rename-file.darwin: 重新命名
-    delete-file.win32: 移到回收站
-    delete-file.darwin: 移到廢紙簍
-    import: 導入...
+    delete-file.win32: 移到垃圾桶
+    delete-file.darwin: 移到垃圾桶
+    import: 匯入...
     property: 屬性...(*)
-    reveal-file.win32: 在文件資源管理器中顯示
-    reveal-file.darwin: 在訪達中顯示
+    reveal-file.win32: 在檔案資源管理器中顯示
+    reveal-file.darwin: 在 Finder 中顯示
   create-library:
-    new-library: 文檔庫
-    new-library-from-external-folder.win32: 鏈接到外部文件夾 (比如 OneDrive, Dropbox, Git 等)...
-    new-library-from-external-folder.darwin: 鏈接到外部文件夾 (比如 iCloud, Dropbox, Git 等)...
-    new-library-from-external-folder.linux: 鏈接到外部文件夾 (比如 Dropbox, Git 等)...
-    new-library-from-blog: 鏈接到靜態博客項目文件夾 (比如 Jekyll, Hexo 等)...
-    new-library-from-book: 鏈接到電子書項目文件夾 (比如 GitBook)...
+    new-library: 文件庫
+    new-library-from-external-folder.win32: 連結到外部資料夾 (比如 OneDrive, Dropbox, Git 等)...
+    new-library-from-external-folder.darwin: 連結到外部資料夾 (比如 iCloud, Dropbox, Git 等)...
+    new-library-from-external-folder.linux: 連結到外部資料夾 (比如 Dropbox, Git 等)...
+    new-library-from-blog: 連結到靜態部落格專案資料夾 (比如 Jekyll, Hexo 等)...
+    new-library-from-book: 連結到電子書專案資料夾 (比如 GitBook)...
   file:
-    new-file: 新建文檔
-    new-file-from-clipboard: 從剪貼板新建文檔
-    open-file-in-new-window: 在新窗口中打開
-    pin: 設置/取消 置頂
-    tag: 設置標籤
-    note: 設置內容摘要
-    due: 設置截稿日期
-    creation-time: 設置創建時間
+    new-file: 新增文件
+    new-file-from-clipboard: 從剪貼簿新增文件
+    open-file-in-new-window: 在新視窗中開啟
+    pin: 設定/取消 置頂
+    tag: 設定標籤
+    note: 設定內容摘要
+    due: 設定截稿日期
+    creation-time: 設定建立時間
     merge-file: 合併 (*)
-    cut-file: 剪切
+    cut-file: 剪下
     copy-file.win32: 複製
-    copy-file.darwin: 拷貝
-    paste-file: 粘貼 (*)
+    copy-file.darwin: 複製
+    paste-file: 貼上 (*)
     select-all-files: 全選
-    rename-file.win32: 重命名
+    rename-file.win32: 重新命名
     rename-file.darwin: 重新命名
-    delete-file.win32: 移到回收站
-    delete-file.darwin: 移到廢紙簍
-    export-file: 導出...
-    reveal-file.win32: 在文件資源管理器中顯示
-    reveal-file.darwin: 在訪達中顯示
+    delete-file.win32: 移到垃圾桶
+    delete-file.darwin: 移到垃圾桶
+    export-file: 匯出...
+    reveal-file.win32: 在檔案資源管理器中顯示
+    reveal-file.darwin: 在 Finder 中顯示
   file-sort:
     sort-by-name: 名稱
-    sort-by-creation-time: 創建時間
+    sort-by-creation-time: 建立時間
     sort-by-last-modified: 修改時間
     order-ascending: 正序
     order-descending: 倒序
   tab:
-    close-selected-tab: 關閉標籤頁
-    close-other-tabs: 關閉其他標籤頁
-    close-tabs-to-the-right: 關閉右側標籤頁
+    close-selected-tab: 關閉分頁
+    close-other-tabs: 關閉其他分頁
+    close-tabs-to-the-right: 關閉右側分頁
     close-all-tabs: 全部關閉
-    open-selected-tab-in-new-window: 在新窗口中打開
-    reveal-document: 在文檔庫中顯示
+    open-selected-tab-in-new-window: 在新視窗中開啟
+    reveal-document: 在文件庫中顯示
   outline:
     move-section-up: 向上移動
     move-section-down: 向下移動
-    left-shift-section: 左縮進
-    right-shift-section: 右縮進
+    left-shift-section: 向左縮排
+    right-shift-section: 向右縮排
     delete-section: 刪除
   editor:
-    undo: 撤銷
+    undo: 還原
     redo: 重做
-    cut: 剪切
+    cut: 剪下
     copy.win32: 複製
-    copy.darwin: 拷貝
-    paste: 粘貼
-    paste-as-text: 粘貼為純文本
+    copy.darwin: 複製
+    paste: 貼上
+    paste-as-text: 以純文字貼上
     copy-as-html.win32: 複製為 HTML
-    copy-as-html.darwin: 拷貝為 HTML
-    copy-as-plain-text.win32: 複製為純文本
-    copy-as-plain-text.darwin: 拷貝為純文本
-    copy-as-wechat-subscription-post.win32: 複製為微信訂閲號文章格式
-    copy-as-wechat-subscription-post.darwin: 拷貝為微信訂閲號文章格式
+    copy-as-html.darwin: 複製為 HTML
+    copy-as-plain-text.win32: 複製為純文字
+    copy-as-plain-text.darwin: 複製為純文字
+    copy-as-wechat-subscription-post.win32: 複製為微信訂閱號文章格式
+    copy-as-wechat-subscription-post.darwin: 複製為微信訂閱號文章格式
     select-all: 全選
-    cut-line: 剪切行
+    cut-line: 剪下行
     copy-line: 複製行
     delete-line: 刪除行
-    new-file-selected-text: 以選定的內容新建文檔 (*)
-    split-file-current-position: 在當前位置分割文檔 (*)
-    add-to-dictionary: 添加到詞典
+    new-file-selected-text: 以選定的內容新增文件 (*)
+    split-file-current-position: 在當前位置分割文件 (*)
+    add-to-dictionary: 新增到詞典
     remove-from-dictionary: 從詞典中刪除
-    edit-footnote: 編輯腳註
+    edit-footnote: 編輯註腳
     edit-task-list: 編輯任務列表
-    change-task-item-state: 改變任務列表項目完成狀態
+    change-task-item-state: 改變任務列表專案完成狀態
     sort-task-list-state: 排序任務列表的完成狀態 (*)
     sort-list: 排序列表 (*)
     invert-list: 反轉列表次序 (*)
-    edit-code-block: 編輯代碼塊
-    beautify-code: 美化代碼 (*)
+    edit-code-block: 編輯程式碼塊
+    beautify-code: 美化程式碼 (*)
     edit-equation: 編輯 LaTeX 數學公式
     edit-image: 編輯圖片
-    edit-link: 編輯鏈接
+    edit-link: 編輯連結
     edit-table: 編輯表格
     auto-adjust-columns-width: 自動調整列寬 (*)
   keymap:
     keymap-off: 關閉
-    keymap-vim: 啟用 Vim 按鍵綁定
-    keymap-emacs: 啟用 Emacs 按鍵綁定
+    keymap-vim: 啟動 Vim 按鍵繫結
+    keymap-emacs: 啟動 Emacs 按鍵繫結
   resource:
-    cut-resource: 剪切
+    cut-resource: 剪下
     copy-resource.win32: 複製
-    copy-resource.darwin: 拷貝
-    paste-resource: 粘貼 (*)
-    paste-resource-from-clipboard: 粘貼自剪貼板... (*)
+    copy-resource.darwin: 複製
+    paste-resource: 貼上 (*)
+    paste-resource-from-clipboard: 從剪貼簿貼上... (*)
     select-all-resources: 全選
-    rename-resource.win32: 重命名
+    rename-resource.win32: 重新命名
     rename-resource.darwin: 重新命名
-    delete-resource.win32: 移到回收站
-    delete-resource.darwin: 移到廢紙簍
-    open-resource.win32: 使用外部應用程序打開
-    open-resource.darwin: 使用預覽打開
-    reveal-resource.win32: 在文件資源管理器中顯示
-    reveal-resource.darwin: 在訪達中顯示
+    delete-resource.win32: 移到垃圾桶
+    delete-resource.darwin: 移到垃圾桶
+    open-resource.win32: 使用外部應用程式開啟
+    open-resource.darwin: 使用預覽程式開啟
+    reveal-resource.win32: 在檔案資源管理器中顯示
+    reveal-resource.darwin: 在 Finder 中顯示
   textbox:
-    undo: 撤銷
+    undo: 還原
     redo: 重做
-    cut: 剪切
+    cut: 剪下
     copy.win32: 複製
-    copy.darwin: 拷貝
-    paste: 粘貼
+    copy.darwin: 複製
+    paste: 貼上
     select-all: 全選
   dock:
-    new-window: 新建窗口
+    new-window: 新增視窗
   tray:
-    save-clipboard-content-to-inbox: 保存剪貼板內容到收件箱
-    open-window: 顯示主窗口
-    quit: 退出
+    save-clipboard-content-to-inbox: 儲存剪貼簿內容到收件箱
+    open-window: 顯示主視窗
+    quit: 結束
 main:
   common:
     unregister: 未註冊
   toolbar:
     layout: 佈局
-    quick-open: 快速打開
-    new-file: 新建文檔
-    open-external-file: 打開
-    find: 查找
+    quick-open: 快速開啟
+    new-file: 新增文件
+    open-external-file: 開啟
+    find: 尋找
     strong: 粗體
     emphasis: 斜體
     underline: 下劃線
     mark: 加亮
     format: 格式
     insert: 插入
-    insert-link: 鏈接
-    insert-media: 圖像
+    insert-link: 連結
+    insert-media: 影像
     insert-table: 表格
-    view: 查看
-    toggle-read-mode: 閲讀模式(*)
+    view: 檢視
+    toggle-read-mode: 閱讀模式(*)
     toggle-history: 歷史記錄
     toggle-presentation: 播放幻燈片
-    export: 導出
-    preferences.win32: 設置
-    preferences.darwin: 偏好設置
-    menu: 菜單
+    export: 匯出
+    preferences.win32: 設定
+    preferences.darwin: 偏好設定
+    menu: 選單
   library:
-    new-library: 添加文檔庫
+    new-library: 新增文件庫
   file:
     sort-by: 排序
     sort-by-name: 名稱
-    sort-by-creation-time: 創建時間
+    sort-by-creation-time: 建立時間
     sort-by-last-modified: 修改時間
     sort-by-custom: 自定義
     sort-by-other: 其他
     pinned: 置頂
-    no-recent-title: 沒有最近文檔
-    no-recent-description: 最近打開的文檔會在這裏列出。
-    no-inbox-title: 沒有文檔
-    no-inbox-description: 臨時的零碎的文檔可以放置在這裏，另外使用全局快捷鍵創建的文檔也會放置在這裏。
-    no-external-title: 沒有外部文檔
-    no-external-description: 正在編輯的外部文檔會在這裏列出。
-    no-match-title: 沒有符合條件的文檔
-    no-match-description: 符合當前文件夾查詢條件的文檔會在這裏列出。
-    no-document-title: 沒有文檔
-    no-document-description: 這個文件夾裏沒有文檔，嘗試新建一個文檔吧，或者看看其他文件夾。
+    no-recent-title: 沒有最近文件
+    no-recent-description: 最近開啟的文件會在這裡列出。
+    no-inbox-title: 沒有文件
+    no-inbox-description: 臨時的零碎的文件可以放置在這裡，另外使用全域性快捷鍵建立的文件也會放置在這裡。
+    no-external-title: 沒有外部文件
+    no-external-description: 正在編輯的外部文件會在這裡列出。
+    no-match-title: 沒有符合條件的文件
+    no-match-description: 符合當前資料夾尋找條件的文件會在這裡列出。
+    no-document-title: 沒有文件
+    no-document-description: 這個資料夾裡沒有文件，嘗試新增一個文件吧，或者看看其他資料夾。
   status:
     upgrade: 升級為全功能版本
     words: 字數
@@ -385,10 +385,10 @@ main:
     minute: 分
 panel:
   preview:
-    document-style: 文檔樣式
+    document-style: 文件樣式
     hide: 隱藏
     show: 顯示
-    export: 導出
+    export: 匯出
     close: 關閉
   slide:
     slide-style: 幻燈片樣式
@@ -405,62 +405,62 @@ panel:
     case-sensitive: 區分大小寫
     whole-word: 全字匹配
     regular-expression: 使用正則表達式
-    find-placeholder: 查找
-    replace-placeholder: 替換
-    find: 查找
-    previous: 查找上一處
-    replace: 替換
-    replace-all: 全部替換
+    find-placeholder: 尋找
+    replace-placeholder: 取代
+    find: 尋找
+    previous: 尋找上一處
+    replace: 取代
+    replace-all: 全部取代
   template:
-    title: 新建文檔
-    description: 請選擇一個模板用於新建文檔。
-    create: 創建
+    title: 新增文件
+    description: 請選擇一個模板用於新增文件。
+    create: 建立
     close: 關閉
   media:
     title: 插入圖片
     title-update: 更新圖片
-    title-document: 文檔
+    title-document: 文件
     title-images: 的圖片
-    title-library: 文檔庫
+    title-library: 文件庫
     title-resources: 的資源
     no-image-message-title: 找不到圖片
-    no-image-message-content: 點擊下方的 “添加” 按鈕以添加圖片，或者將圖片拖拉進來。
-    add: 添加
-    paste: 從剪貼板粘貼 (*)
+    no-image-message-content: 點選下方的「新增」 按鈕以新增圖片，或者將圖片拖拉進來。
+    add: 新增
+    paste: 從剪貼簿貼上 (*)
     insert: 插入
     update: 更新
     close: 關閉
   link:
-    title: 插入鏈接
-    title-update: 更新鏈接
-    link-to: 鏈接到
+    title: 插入連結
+    title-update: 更新連結
+    link-to: 連結到
     link-url: 外部網頁
-    link-document: 文檔或者章節
+    link-document: 文件或者章節
     link-url-text: 標題
     link-url-text-placeholder: 可留空
     link-url-target: URL
     link-document-text: 標題
     link-document-text-placeholder: 可留空
-    link-document-name: 文檔
+    link-document-name: 文件
     link-document-section: 章節
     insert: 插入
     update: 更新
     close: 關閉
   footnote:
-    title: 插入腳註
-    title-update: 更新腳註
+    title: 插入註腳
+    title-update: 更新註腳
     name: 名稱
-    name-placeholder: 該腳註的名稱
+    name-placeholder: 該註腳的名稱
     content-placeholder: 內容
     insert: 插入
     update: 更新
     close: 關閉
   code:
-    title: 插入代碼塊
-    title-update: 更新代碼塊
-    type: 類型
-    type-general: 一般類型
-    beautify: 美化代碼
+    title: 插入程式碼塊
+    title-update: 更新程式碼塊
+    type: 型別
+    type-general: 一般型別
+    beautify: 美化程式碼
     insert: 插入
     update: 更新
     close: 關閉
@@ -473,12 +473,12 @@ panel:
   chart:
     title: 插入圖表
     title-update: 更新圖表
-    type: 類型
-    type-column: 柱形圖
+    type: 型別
+    type-column: 直條圖
     type-line: 折線圖
-    type-pie: 餅圖
-    type-bar: 條形圖
-    type-area: 面積圖
+    type-pie: 圓形圖
+    type-bar: 橫條圖
+    type-area: 區域圖
     insert: 插入 (*)
     update: 更新 (*)
     close: 關閉
@@ -505,132 +505,132 @@ panel:
     general: 通用
     editor: 編輯器
     markdown: Markdown
-    professional: 專業用户
+    professional: 專業使用者
     spellcheck: 拼寫檢查
     localization: 本地化
     group-appearance: 外觀
-    enable-transparent-background: 儘可能地啟用半透明背景 (需要重啟應用程序)。
+    enable-transparent-background: 儘可能地啟動半透明背景 (需要重啟應用程式)。
     show-all-toolbar-button: 顯示所有工具欄按鈕。
     show-toolbar-text: 顯示工具欄按鈕標題。
     group-function: 功能
-    enable-tabs: 啟用標籤頁。
-    enable-save-clipboard-content-global-shortcut: 啟用保存剪貼板內容的全局快捷鍵。
-    enable-tray-icon: 顯示托盤圖標。
-    reopen-last-documents-on-startup: 下次啟動應用程序時自動打開最後編輯的文檔。
-    always-new-window-when-open-document-externally.win32: 從文件資源管理器打開文檔時總在新窗口中打開。
-    always-new-window-when-open-document-externally.darwin: 從訪達打開文檔時總在新窗口中打開。
-    always-new-window-when-open-document-externally.linux: 從文件管理器打開文檔時總在新窗口中打開。
-    exit-application-when-all-windows-are-closed: 當所有窗口關閉時退出應用程序。
+    enable-tabs: 啟動分頁。
+    enable-save-clipboard-content-global-shortcut: 啟動儲存剪貼簿內容的全域性快捷鍵。
+    enable-tray-icon: 顯示托盤圖示。
+    reopen-last-documents-on-startup: 下次啟動應用程式時自動開啟最後編輯的文件。
+    always-new-window-when-open-document-externally.win32: 從檔案資源管理器開啟文件時總在新視窗中開啟。
+    always-new-window-when-open-document-externally.darwin: 從 Finder 開啟文件時總在新視窗中開啟。
+    always-new-window-when-open-document-externally.linux: 從檔案管理器開啟文件時總在新視窗中開啟。
+    exit-application-when-all-windows-are-closed: 當所有視窗關閉時結束應用程式。
     group-syntax: 語法
     syntax-enable-html: 允許解析 HTML 標籤。
-    syntax-enable-ins: 啟用下劃線 (如 ++underline++)。
-    syntax-enable-mark: 啟用加亮 (如 ==highlight==)。
-    syntax-enable-footnote: 啟用腳註 (如 [^footnote-name])。
-    syntax-enable-tasklist: 啟用任務列表 (如 * [x] task item)。
-    syntax-enable-equation: 啟用 LaTeX 數學公式 (如 $$E = mc^2$$)。
+    syntax-enable-ins: 啟動下劃線 (如 ++underline++)。
+    syntax-enable-mark: 啟動加亮 (如 ==highlight==)。
+    syntax-enable-footnote: 啟動註腳 (如 [^footnote-name])。
+    syntax-enable-tasklist: 啟動任務列表 (如 * [x] task item)。
+    syntax-enable-equation: 啟動 LaTeX 數學公式 (如 $$E = mc^2$$)。
     syntax-enable-single-dollar-equation: 允許單美元符號的行內數學公式 (如 $y = x + 1$)。
-    syntax-enable-chart: 啟用圖表 (@chart 指令)。
-    syntax-enable-toc: 啟用目錄 (@toc 指令)。
+    syntax-enable-chart: 啟動圖表 (@chart 指令)。
+    syntax-enable-toc: 啟動目錄 (@toc 指令)。
     toc-level-from: 目錄標題級別從
     toc-level-to: 到
-    group-performance: 性能
+    group-performance: 效能
     enable-chart-rendering-in-instant-view: 允許在即時預覽中顯示圖表。
     enable-equation-rendering-in-instant-view: 允許在即時預覽中顯示 LaTeX 數學公式。
-    group-font: 字體
-    editor-font: 編輯器字體 (*)
-    view-font: 查看字體 (*)
-    font-size: 字體大小 (*)
+    group-font: 字型
+    editor-font: 編輯器字型 (*)
+    view-font: 檢視字型 (*)
+    font-size: 字型大小 (*)
     line-height: 行高 (*)
     group-typing: 錄入
-    vertical-center-cursor: 垂直居中光標。
-    auto-complete-format-by-symbol-key: 允許使用符號鍵 (* _ + ~ = 和 `) 設置選中的文本的格式。
+    vertical-center-cursor: 垂直居中游標。
+    auto-complete-format-by-symbol-key: 允許使用符號鍵 (* _ + ~ = 和 `) 設定選中的文字的格式。
     auto-complete-markdown-symbol: 自動補完 Markdown 符號對。
-    auto-complete-smart-quote: 自動替換引號為智能引號 (即 “ ” 和 ‘ ’)。
+    auto-complete-smart-quote: 自動替換引號為智慧引號 (即「 」 和 ‘ ’)。
     group-assist: 輔助
     enable-show-line-number: 允許顯示行號。
     always-show-line-number: 總是顯示行號。
     enable-markdown-syntax-check: 允許 Markdown 語法檢查。
-    group-key-binding: 按鍵綁定
-    enable-emacs-key-binding: 允許基本的 Emacs 按鍵綁定 (暫時只支持 macOS 系統)。
-    enable-vim-key-binding: 允許基本的 Vim 按鍵綁定。(*)
-    active-key-binding-when-tab-created: 當新標籤頁創建時，自動進入綁定按鍵狀態。(*)
-    enable-spell-check: 啟用拼寫檢查。
+    group-key-binding: 按鍵繫結
+    enable-emacs-key-binding: 允許基本的 Emacs 按鍵繫結 (暫時只支援 macOS 系統)。
+    enable-vim-key-binding: 允許基本的 Vim 按鍵繫結。(*)
+    active-key-binding-when-tab-created: 當新分頁建立時，自動進入繫結按鍵狀態。(*)
+    enable-spell-check: 啟動拼寫檢查。
     group-edit-language: 編輯語言
-    dictionary-active: 啟用
+    dictionary-active: 啟動
     dictionary-language: 語言
-    group-user-dictionary: 用户字典
+    group-user-dictionary: 使用者字典
     remove-word: 移除 (*)
     clear-user-dictionary: 清空 (*)
     backup-user-dictionary: 備份 (*)
-    import-user-dictionary: 導入 (*)
+    import-user-dictionary: 匯入 (*)
     group-cjk-auto-complete: 中日韓自動補完
     auto-complete-cjk-surround-space: 自動在中日韓文字及英文數字間插入空格。
-    auto-complete-cjk-corner-bracket: 自動替換引號為直角引號 (即 「 」和 『 』)。
-    auto-complete-cjk-full-width-symbol: 自動替換半角符號為全角符號 (僅限 ，、； 符號)。
+    auto-complete-cjk-corner-bracket: 自動替換引號為直角引號 (即「 」和 『 』)。
+    auto-complete-cjk-full-width-symbol: 自動替換半形符號為全形符號 (僅限 ，、； 符號)。
     language-system: 系統
-    language-setup-notice: 需要重啟應用程序。
+    language-setup-notice: 需要重新啟動應用程式。
     close: 關閉
   export:
-    title: 導出文檔
+    title: 匯出文件
     type: 格式
     type-image: 圖片 (*)
     page-size: 紙張大小
     page-orientation: 方向
     page-orientation-portrait: 縱向
     page-orientation-landscape: 橫向
-    pdf-open-file-when-finished: 完成後打開 PDF 文檔
-    docx-show-file-when-finished: 完成後顯示 Docx 文件所在位置
+    pdf-open-file-when-finished: 完成後開啟 PDF 文件
+    docx-show-file-when-finished: 完成後顯示 Docx 檔案所在位置
     html-format: HTML 格式
     html-format-standard: 標準 (*)
-    html-format-blog: WordPress 以及其他博客文章格式
+    html-format-blog: WordPress 以及其他部落格文章格式
     html-format-wechat: 微信公眾號文章格式
     html-include-resource: 包含圖片 (*)
-    html-show-file-when-finished: 完成後顯示 HTML 文件所在位置
-    html-export-to-clipboard: 導出到剪貼板
+    html-show-file-when-finished: 完成後顯示 HTML 檔案所在位置
+    html-export-to-clipboard: 匯出到剪貼簿
     markdown-include-resource: 包含圖片 (*)
-    markdown-show-file-when-finished:  完成後顯示 Markdown 文件所在位置
-    markdown-export-to-clipboard: 導出到剪貼板
+    markdown-show-file-when-finished:  完成後顯示 Markdown 檔案所在位置
+    markdown-export-to-clipboard: 匯出到剪貼簿
     textbundle-include-resource: 包含圖片 (*)
     textbundle-compress: 壓縮 (*)
-    textbundle-show-file-when-finished:  完成後顯示 TextBundle 文件所在位置
+    textbundle-show-file-when-finished:  完成後顯示 TextBundle 檔案所在位置
     image-width: 圖片大小
     image-width-narrow: 小 (420 px)
     image-width-normal: 普通 (595 px)
     image-width-wide: 大 (842 px)
-    image-width-thumbnail: 縮略圖 (240 px)
+    image-width-thumbnail: 縮圖 (240 px)
     image-format: 格式
     image-page-range: 頁面
     image-page-range-first: 第一頁
-    image-page-range-all: 所以頁面 (*)
-    image-open-when-finished: 完成後打開圖片
-    export: 導出
+    image-page-range-all: 所有頁面 (*)
+    image-open-when-finished: 完成後開啟圖片
+    export: 匯出
     close: 關閉
   add-folder:
-    title: 添加外部文件夾
-    description: 添加外部文件夾到文檔庫
-    folder-description: 你選擇的文件夾將會成為一個新的文檔庫，不妨考慮選擇位於 iCloud Drive，OneDrive，Google Drive，Dropbox 或者 Git 項目之內的文件夾，這樣你就可以享用它們帶來的文檔同步便利了。
-    choose: 選擇文件夾
+    title: 新增外部資料夾
+    description: 新增外部資料夾到文件庫
+    folder-description: 你選擇的資料夾將會成為一個新的文件庫，不妨考慮選擇位於 iCloud Drive，OneDrive，Google Drive，Dropbox 或者 Git 專案之內的資料夾，這樣你就可以享用它們帶來的文件同步便利了。
+    choose: 選擇資料夾
     close: 關閉
   add-blog:
-    title: 添加靜態博客項目
-    description: 添加一個已有的靜態博客項目文件夾到庫。
+    title: 新增靜態部落格專案
+    description: 新增一個已有的靜態部落格專案資料夾到文件庫。
     jekyll-description: 一個簡單的靜態站點生成工具，Jekyll 同時也是 [GitHub Pages](https://pages.github.com/) 背後的引擎。
-    hexo-description: 一個快速、簡單、強大的博客框架。
+    hexo-description: 一個快速、簡單、強大的部落格框架。
     hugo-description: 一個快速、現代的靜態站點引擎，為速度而優化。
-    message-require-file: 請選擇包含有項目文件 '%s' 的文件夾。
-    choose: 選擇文件夾
+    message-require-file: 請選擇包含有專案檔案 '%s' 的資料夾。
+    choose: 選擇資料夾
     close: 關閉
   add-book:
-    title: 添加電子書項目
-    description: 添加一個已有的電子書項目到庫。
-    gitbook-description: 一個使用 Markdown 格式書寫的電子書製作工具，可以生成在線網頁、PDF 以及 EPUB 等格式.
-    message-require-file: 請選擇包含有項目文件 '%s' 的文件夾.
-    choose: 選擇文件夾
+    title: 新增電子書專案
+    description: 新增一個已有的電子書專案到文件庫。
+    gitbook-description: 一個使用 Markdown 格式書寫的電子書製作工具，可以生成線上網頁、PDF 以及 EPUB 等格式.
+    message-require-file: 請選擇包含有專案檔案 '%s' 的資料夾.
+    choose: 選擇資料夾
     close: 關閉
   take-snapshot:
-    title: 為文檔 "%s" 添加一個歷史版本
+    title: 為文件 "%s" 新增一個歷史版本
     message-placeholder: 簡單描述一下該歷史版本
-    create: 創建
+    create: 建立
     close: 關閉
   about:
     update-message-checking: 正在檢查更新...
@@ -639,11 +639,11 @@ panel:
     update-message-available: 發現新版本。
     update-message-link: 獲取新版本
     update-check: 檢查新版本
-    brief: 高效的跨平台 Markdown 文本編輯器。
+    brief: 高效的跨平臺 Markdown 文字編輯器。
     author: |-
-      本軟件由 ivarptr 個人開發及維護，任何問題或建議都歡迎通過 Email 向我反饋，
-      同時歡迎在推特關注我以獲得有關本軟件的最新動態。感謝你使用 Yu Writer Pro，
-      感謝你的支持！
+      本軟體由 ivarptr 個人開發及維護，任何問題或建議都歡迎通過 Email 向我反饋，
+      同時歡迎在推特關注我以獲得有關本軟體的最新動態。感謝你使用 Yu Writer Pro，
+      感謝你的支援！
     site-offical-title: 官方網站
     site-feedback-title: 意見反饋
     site-twitter-title: Twitter
@@ -651,97 +651,97 @@ panel:
     site-translate-title: 翻譯計劃
     tab-terms: 使用條款
     tab-register: 註冊
-    tab-activate: 激活
+    tab-activate: 啟動
     terms-trial: |-
-      ### 試用本軟件
+      ### 試用本軟體
 
-      Yu Writer Pro 是收費軟件，每一個設備（即每台計算機）需要購買一份授權（以下
-      簡稱 “註冊”）方可使用。
+      Yu Writer Pro 是收費軟體，每一個裝置（即每臺計算機）需要購買一份授權（以下
+      簡稱「註冊」）方可使用。
 
-      Beta 版（即測試版）允許 **個人用途** 的用户在註冊之前免費試用，
-      試用期間大部分功能都可用，且試用期不設時限，你無需擔心過一段時間之後軟件
-      無法運行，或者文檔被鎖住而無法編輯。
+      Beta 版（即測試版）允許 **個人用途** 的使用者在註冊之前免費試用，
+      試用期間大部分功能都可用，且試用期不設時限，你無需擔心過一段時間之後軟體
+      無法執行，或者文件被鎖住而無法編輯。
 
-      另外，本軟件使用本地文件夾作為文檔庫，以及使用開放的 Markdown 格式
-      （一種純文本格式）儲存文檔，如果你以後決定不再使用本軟件了，也可以使用系統本身的
-      文件資源管理器以及任何其他文本編輯器來管理或編輯，作者希望你可以
-      愉快地、無後顧之憂地試用本軟件。
+      另外，本軟體使用本地資料夾作為文件庫，以及使用開放的 Markdown 格式
+      （一種純文字格式）儲存文件，如果你以後決定不再使用本軟體了，也可以使用系統本身的
+      檔案資源管理器以及任何其他文字編輯器來管理或編輯，作者希望你可以
+      愉快地、無後顧之憂地試用本軟體。
     terms-purchase: |-
       ### 何時需要註冊？
 
-      如果你喜歡本軟件，或者覺得本軟件對你有幫助，或者非常認可作者的努力，或者認為
+      如果你喜歡本軟體，或者覺得本軟體對你有幫助，或者非常認可作者的努力，或者認為
       作者很帥 😅，或者是在企業或商業環境中使用，或者以上都不是，只是有一股莫名想
-      花錢的衝動 😂。那就請考慮一下注冊本軟件吧。
+      花錢的衝動 😂。那就請考慮一下注冊本軟體吧。
     terms-service: |-
       ### 註冊之後
 
-      * 能完整體驗所有功能，軟件中標有鎖頭圖標的功能在註冊後即可使用
+      * 能完整體驗所有功能，軟體中標有鎖頭圖示的功能在註冊後即可使用
       （注：標有 * 號的功能尚未完成，註冊後也暫時無法使用，以後會陸續補完。）；
-      * 能使用更多的 UI 主題、文檔樣式和幻燈片樣式；
-      * 能使用自定義的主題、模版、文檔樣式和幻燈片樣式；
+      * 能使用更多的 UI 主題、文件樣式和幻燈片樣式；
+      * 能使用自定義的主題、模版、文件樣式和幻燈片樣式；
       * 授權可用於 0.x 的測試版，同樣也可用於將來發布的 1.x 的正式版；
-      * 有了你的註冊支持，作者就能愉快地、持續地修復、改進、更新軟件，軟件會變得越來
+      * 有了你的註冊支援，作者就能愉快地、持續地修復、改進、更新軟體，軟體會變得越來
         越好用。（咦！好像這個才是重點？才才才不是呢 😋）
       * 能下載並使用內部測試版，能更快地體驗到作者正在開發中的新功能；
     terms-notice: |-
-      注意：在註冊前請確保本軟件已更新至最新版，並儘量在官方網站下載。
+      注意：在註冊前請確保本軟體已更新至最新版，並儘量在官方網站下載。
     terms-action: |-
-      點擊上面的 “註冊” 標籤開始註冊咯。
+      點選上面的「註冊」 標籤開始註冊咯。
     register-method: |-
       ### 註冊方式
 
-      因為註冊模塊尚未完善，目前採用的是 “非聯網的單機驗證註冊碼” 的激活方式，一個註冊碼只能
-      激活一台設備。當註冊模塊完善後會轉為
-      聯網激活方式，到時可以 “一次註冊，激活多台設備”，也可以撤銷、轉移授權。
-      已註冊的用户屆時會自動升級為新的激活方式。
+      因為註冊模組尚未完善，目前採用的是「非聯網的單機驗證註冊碼」 的啟動方式，一個註冊碼只能
+      啟動一臺裝置。當註冊模組完善後會轉為
+      聯網啟動方式，到時可以「一次註冊，啟動多臺裝置」，也可以取消、轉移授權。
+      已註冊的使用者屆時會自動升級為新的啟動方式。
     register-price: |-
       ### 價格
 
       * 每份授權人民幣 ¥100 元；
-      * 優惠 A：個人用途每用户第 2 份及往後每份授權均為 ¥35 元；（注 1）
-      * 優惠 B：學生及教師可購買針對教育用户的授權，每份授權均為 ¥50；（注 3）
+      * 優惠 A：個人用途每使用者第 2 份及往後每份授權均為 ¥35 元；（注 1）
+      * 優惠 B：學生及教師可購買針對教育使用者的授權，每份授權均為 ¥50；（注 2）
 
       - - -
 
-      * 注 1：用户以 Email 地址為標識，即使用同一個 Email 註冊將視為同一個用户。
+      * 注 1：使用者以 Email 地址為標識，即使用同一個 Email 註冊將視為同一個使用者。
       * 注 2：學生及教師購買時請使用屬於你學校的個人 Email 地址（即必須以 edu.xx 如 edu.cn、
-        或 edu 結尾的郵箱）發送郵件，沒有的話也可以隨便拍拍自己的學生證/牌或教師證/牌
+        或 edu 結尾的郵箱）傳送郵件，沒有的話也可以隨便拍拍自己的學生證/牌或教師證/牌
         發過來即可。
     register-payment: |-
       ### 支付
 
       使用微信或者支付寶掃描下面的二維碼轉賬。
     register-payment-alt: |-
-      沒有微信支付和支付寶的用户也可以使用 Paypal 轉賬到作者的賬號（賬號地址同上面的
-      聯繫 Email 地址）。
-      
+      沒有微信支付和支付寶的使用者也可以使用 Paypal 轉賬到作者的賬號（賬號地址同上面的
+      聯絡 Email 地址）。
+
     register-disclaimer: |-
-      ### 免責聲明
+      ### 免責宣告
 
-      註冊僅代表着購買使用授權，作者並不提供任何功能上的承諾或保證，也不提供任何形式
-      的技術服務、諮詢和支持，因本軟件引起的任何損失作者概不負責。
-    register-machine-code-title: 當前設備的唯一機器碼
+      註冊僅代表著購買使用授權，作者並不提供任何功能上的承諾或保證，也不提供任何形式
+      的技術服務、諮詢和支援，因本軟體引起的任何損失作者概不負責。
+    register-machine-code-title: 當前裝置的唯一機器碼
     register-email: |-
-      ### 發送郵件
+      ### 傳送郵件
 
-      轉賬成功後，請把轉賬記錄的 “轉賬單號” （支付寶裏稱為 “訂單號”）最後 8 位數字
-      以及上面的機器碼發送到作者的 Email（見上面的聯繫方式），如果使用 Paypal 轉賬，
-      則只需發送機器碼。
-      
-      郵件標題請寫上 “購買 Yu Writer Pro”。
+      轉賬成功後，請把轉賬記錄的「轉賬單號」 （支付寶裡稱為「訂單號」）最後 8 位數字
+      以及上面的機器碼傳送到作者的 Email（見上面的聯絡方式），如果使用 Paypal 轉賬，
+      則只需傳送機器碼。
 
-      完成這步後點擊上面的 “激活” 標籤進行下一步。
+      郵件標題請寫上「購買 Yu Writer Pro」。
+
+      完成這步後點擊上面的「啟動」 標籤進行下一步。
     active-notice: |-
-      如果你已經完成支付併發出郵件，請耐心等待作者發送註冊碼到你的郵箱。
+      如果你已經完成支付併發出郵件，請耐心等待作者傳送註冊碼到你的郵箱。
 
-      因為是人手操作，加上作者是在閒暇時開發和維護本軟件，所以慢的話有可能要一兩天
-      （碰上假期可能要等上三五天）之後才會收到註冊碼。如果超過一週都沒收到請聯繫作者。
+      因為是人手操作，加上作者是在閒暇時開發和維護本軟體，所以慢的話有可能要一兩天
+      （碰上假期可能要等上三五天）之後才會收到註冊碼。如果超過一週都沒收到請聯絡作者。
     active-code-title: 輸入註冊碼
-    active-message-failed: 註冊碼驗證失敗，請檢查並重新填寫註冊碼，如嘗試多次仍無效請聯繫作者。
-    active-message-verified: 當前軟件已註冊，謝謝你的支持！
+    active-message-failed: 註冊碼驗證失敗，請檢查並重新填寫註冊碼，如嘗試多次仍無效請聯絡作者。
+    active-message-verified: 當前軟體已註冊，謝謝你的支援！
     active-verify: 驗證註冊碼
-    active-backup: 備份授權文件 (*)
-    active-import: 導入授權文件 (*)
+    active-backup: 備份授權檔案 (*)
+    active-import: 匯入授權檔案 (*)
     close: 關閉
   tag:
     input-placeholder: 輸入標籤
@@ -749,18 +749,18 @@ panel:
     update: 更新
     close: 關閉
   note:
-    input-placeholder: 文檔的摘要信息
+    input-placeholder: 文件的摘要資訊
     update: 更新
     close: 關閉
   due:
-    title: 設置文檔的截稿日期
+    title: 設定文件的截稿日期
     after: 在
     days: 天之後。
     remove: 清除
     update: 更新
     close: 關閉
   creation-time:
-    title: 設置文檔的創建日期
+    title: 設定文件的建立日期
     include-time: 包含時間
     clear: 清除
     update: 更新
@@ -769,11 +769,11 @@ panel:
     goal-title: 字數
     goal-sub-title: 寫作目標
     word-title: 字數
-    character-title: 字符
+    character-title: 字元
     elapse-title: 寫作用時
-    read-time-title: 閲讀時間
+    read-time-title: 閱讀時間
     speech-time-title: 朗讀時間
-    read-cn-time-title: 閲讀時間
+    read-cn-time-title: 閱讀時間
     read-cn-time-sub-title: 中文
     speech-cn-time-title: 朗讀時間
     speech-cn-time-sub-title: 中文
@@ -791,4 +791,4 @@ panel:
   command-palette:
     input-placeholder: 輸入命令
   quick-open:
-    input-placeholder: 輸入文檔名稱
+    input-placeholder: 輸入文件名稱
