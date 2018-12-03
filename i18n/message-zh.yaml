@@ -601,7 +601,7 @@ panel:
     image-format: 格式
     image-page-range: 页面
     image-page-range-first: 第一页
-    image-page-range-all: 所以页面 (*)
+    image-page-range-all: 所有页面 (*)
     image-open-when-finished: 完成后打开图片
     export: 导出
     close: 关闭
